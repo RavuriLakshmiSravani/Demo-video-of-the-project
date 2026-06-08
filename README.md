@@ -33,4 +33,4 @@ PlanMyEvent is a smart event booking web application that allows users to plan a
 
 📌 Future Enhancements Online payment integration Real-time chat between users and providers Mobile application Advanced AI recommendation system
 
-🎥 Live Demo Walkthrough This video showcases the core features, user flow, and overall functionality of the project in action. 📺 Watch here: [https://github.com/RavuriLakshmiSravani/Demo-video-of-the-project/blob/main/Project_Demo_Video%20(1).mp4]
+🎥 Live Demo Walkthrough This video showcases the core features, user flow, and overall functionality of the project in action. 📺 Watch here: [https://drive.google.com/drive/folders/1uQaJOfF39MXhGQdLcopJp5ORyr5Nr8kG]
